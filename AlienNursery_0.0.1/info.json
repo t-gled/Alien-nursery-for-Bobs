@@ -1,0 +1,11 @@
+{
+    "name": "AlienNursery",
+    "version": "0.0.1",
+    "title": "Alien Nursery for Bob's Mods",
+    "author": "kill_the_world_of_yaldabaoth",
+    "factorio_version": "1.1",
+    "contact": "TBC",
+    "homepage": "TBC",
+    "description": "Small mod that adds nurseries for the automation of alien artifacts.",
+    "dependencies": ["bobenemies", "bobwarfare", "bobplates", "bobrevamp", "bobtech"]
+}
